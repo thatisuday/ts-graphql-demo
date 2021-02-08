@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "server": {
+        "protocol": "http",
+        "host": "127.0.0.1",
+        "port": "3000"
+    },
+    "graphql": {
+        "graphiql": true
+    }
+}
